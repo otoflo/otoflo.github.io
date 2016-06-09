@@ -1,5 +1,4 @@
 name: squarebox
-markdown: redcarpet
 highlighter: rouge
 pygments: null
 excerpt_separator: <!--more-->
