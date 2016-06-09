@@ -1,10 +1,7 @@
 - image: slide-1.jpg
-  desc_location: left
+  desc_location: right
   desc:
-    <h2>This is squarebox</h2>
-    <p>A creative responsive theme.</p>
-    <div class='two spacing'></div>
-    <a class='button boxed'>View Features</a>
+    <h2>Automate your flow</h2>
 - image: slide-2.jpg
   desc_location: right
   desc:
