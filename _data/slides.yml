@@ -5,8 +5,8 @@
 - image: slide-2.jpg
   desc_location: right
   desc:
-    <h2>Creative Design</h2>
-    <p>Focus on every detail element.</p>
+    <h2>Reliable deployments<br>into the cloud</h2>
+    <p></p>
     <div class='two spacing'></div>
     <a class='button boxed'>Learn More</a>
 - image: slide-3.jpg
